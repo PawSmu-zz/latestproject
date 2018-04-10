@@ -4,3 +4,7 @@
 
 fixing bugs in v1.0
 ready to release v1.1
+
+adding code in r2_testowanie branch
+finishing code in branch r2_testowanie
+
