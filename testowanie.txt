@@ -11,3 +11,4 @@ finishing code in branch r2_testowanie
 footnote
 
 new1
+new2
