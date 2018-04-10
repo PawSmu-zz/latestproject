@@ -1,3 +1,5 @@
 # new project
 
 1st release
+
+adding code in r2_testowanie branch
