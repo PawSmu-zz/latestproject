@@ -1,3 +1,6 @@
 # new project
 
 1st release
+
+fixing bugs in v1.0
+ready to release v1.1
